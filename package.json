@@ -1,0 +1,23 @@
+{
+  "name": "chanpago",
+  "version": "1.0.0",
+  "description": "practice discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gd5097/Practice_Discord_Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gd5097/Practice_Discord_Bot/issues"
+  },
+  "homepage": "https://github.com/gd5097/Practice_Discord_Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
